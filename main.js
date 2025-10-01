@@ -503,9 +503,9 @@ export async function inisialisasiDataContoh() {
     
     // Tambah data contoh pelanggan
     const pelangganContoh = [
-      { nama: "Budi Santoso", alamat: "Jl. Merdeka No. 123, Jakarta", nohape: "081234567890" },
-      { nama: "Siti Rahayu", alamat: "Jl. Sudirman No. 45, Bandung", nohape: "082345678901" },
-      { nama: "Ahmad Wijaya", alamat: "Jl. Gatot Subroto No. 67, Surabaya", nohape: "083456789012" }
+      { nama: "Aulia", alamat: "Jl.Pasir Maung No. 123, Bogor", nohape: "081234567890" },
+      { nama: "Elzan", alamat: "Jl. Sentul No. 45, Bogor", nohape: "082345678901" },
+      { nama: "Naila", alamat: "Jl.Landeuh No. 67, Babakanmadang", nohape: "0882-1390-1218" }
     ];
     
     for (const pelanggan of pelangganContoh) {
